@@ -1,0 +1,14 @@
+C:\Users\B15S301est\Documents\final programacion V4\final programacion V4\obj\Debug\net8.0\final programacion V4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B15S301est\Documents\final programacion V4\final programacion V4\obj\Debug\net8.0\final programacion V4.AssemblyInfoInputs.cache
+C:\Users\B15S301est\Documents\final programacion V4\final programacion V4\obj\Debug\net8.0\final programacion V4.AssemblyInfo.cs
+C:\Users\B15S301est\Documents\final programacion V4\final programacion V4\obj\Debug\net8.0\final programacion V4.csproj.CoreCompileInputs.cache
+C:\Users\B15S301est\Documents\final programacion V4\final programacion V4\bin\Debug\net8.0\final programacion V4.exe
+C:\Users\B15S301est\Documents\final programacion V4\final programacion V4\bin\Debug\net8.0\final programacion V4.deps.json
+C:\Users\B15S301est\Documents\final programacion V4\final programacion V4\bin\Debug\net8.0\final programacion V4.runtimeconfig.json
+C:\Users\B15S301est\Documents\final programacion V4\final programacion V4\bin\Debug\net8.0\final programacion V4.dll
+C:\Users\B15S301est\Documents\final programacion V4\final programacion V4\bin\Debug\net8.0\final programacion V4.pdb
+C:\Users\B15S301est\Documents\final programacion V4\final programacion V4\obj\Debug\net8.0\final programacion V4.dll
+C:\Users\B15S301est\Documents\final programacion V4\final programacion V4\obj\Debug\net8.0\refint\final programacion V4.dll
+C:\Users\B15S301est\Documents\final programacion V4\final programacion V4\obj\Debug\net8.0\final programacion V4.pdb
+C:\Users\B15S301est\Documents\final programacion V4\final programacion V4\obj\Debug\net8.0\final programacion V4.genruntimeconfig.cache
+C:\Users\B15S301est\Documents\final programacion V4\final programacion V4\obj\Debug\net8.0\ref\final programacion V4.dll
