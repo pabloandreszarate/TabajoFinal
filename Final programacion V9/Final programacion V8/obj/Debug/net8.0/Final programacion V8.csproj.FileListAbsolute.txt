@@ -1,0 +1,28 @@
+C:\Users\Pablo Andrés Zárate\OneDrive\Documentos\Final programacion V8\Final programacion V8\bin\Debug\net8.0\Final programacion V8.exe
+C:\Users\Pablo Andrés Zárate\OneDrive\Documentos\Final programacion V8\Final programacion V8\bin\Debug\net8.0\Final programacion V8.deps.json
+C:\Users\Pablo Andrés Zárate\OneDrive\Documentos\Final programacion V8\Final programacion V8\bin\Debug\net8.0\Final programacion V8.runtimeconfig.json
+C:\Users\Pablo Andrés Zárate\OneDrive\Documentos\Final programacion V8\Final programacion V8\bin\Debug\net8.0\Final programacion V8.dll
+C:\Users\Pablo Andrés Zárate\OneDrive\Documentos\Final programacion V8\Final programacion V8\bin\Debug\net8.0\Final programacion V8.pdb
+C:\Users\Pablo Andrés Zárate\OneDrive\Documentos\Final programacion V8\Final programacion V8\obj\Debug\net8.0\Final programacion V8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo Andrés Zárate\OneDrive\Documentos\Final programacion V8\Final programacion V8\obj\Debug\net8.0\Final programacion V8.AssemblyInfoInputs.cache
+C:\Users\Pablo Andrés Zárate\OneDrive\Documentos\Final programacion V8\Final programacion V8\obj\Debug\net8.0\Final programacion V8.AssemblyInfo.cs
+C:\Users\Pablo Andrés Zárate\OneDrive\Documentos\Final programacion V8\Final programacion V8\obj\Debug\net8.0\Final programacion V8.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Andrés Zárate\OneDrive\Documentos\Final programacion V8\Final programacion V8\obj\Debug\net8.0\Final programacion V8.dll
+C:\Users\Pablo Andrés Zárate\OneDrive\Documentos\Final programacion V8\Final programacion V8\obj\Debug\net8.0\refint\Final programacion V8.dll
+C:\Users\Pablo Andrés Zárate\OneDrive\Documentos\Final programacion V8\Final programacion V8\obj\Debug\net8.0\Final programacion V8.pdb
+C:\Users\Pablo Andrés Zárate\OneDrive\Documentos\Final programacion V8\Final programacion V8\obj\Debug\net8.0\Final programacion V8.genruntimeconfig.cache
+C:\Users\Pablo Andrés Zárate\OneDrive\Documentos\Final programacion V8\Final programacion V8\obj\Debug\net8.0\ref\Final programacion V8.dll
+C:\Users\B09S305est\Documents\PabloAndrésZárate\Final programacion V8\Final programacion V8\bin\Debug\net8.0\Final programacion V8.exe
+C:\Users\B09S305est\Documents\PabloAndrésZárate\Final programacion V8\Final programacion V8\bin\Debug\net8.0\Final programacion V8.deps.json
+C:\Users\B09S305est\Documents\PabloAndrésZárate\Final programacion V8\Final programacion V8\bin\Debug\net8.0\Final programacion V8.runtimeconfig.json
+C:\Users\B09S305est\Documents\PabloAndrésZárate\Final programacion V8\Final programacion V8\bin\Debug\net8.0\Final programacion V8.dll
+C:\Users\B09S305est\Documents\PabloAndrésZárate\Final programacion V8\Final programacion V8\bin\Debug\net8.0\Final programacion V8.pdb
+C:\Users\B09S305est\Documents\PabloAndrésZárate\Final programacion V8\Final programacion V8\obj\Debug\net8.0\Final programacion V8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S305est\Documents\PabloAndrésZárate\Final programacion V8\Final programacion V8\obj\Debug\net8.0\Final programacion V8.AssemblyInfoInputs.cache
+C:\Users\B09S305est\Documents\PabloAndrésZárate\Final programacion V8\Final programacion V8\obj\Debug\net8.0\Final programacion V8.AssemblyInfo.cs
+C:\Users\B09S305est\Documents\PabloAndrésZárate\Final programacion V8\Final programacion V8\obj\Debug\net8.0\Final programacion V8.csproj.CoreCompileInputs.cache
+C:\Users\B09S305est\Documents\PabloAndrésZárate\Final programacion V8\Final programacion V8\obj\Debug\net8.0\Final programacion V8.dll
+C:\Users\B09S305est\Documents\PabloAndrésZárate\Final programacion V8\Final programacion V8\obj\Debug\net8.0\refint\Final programacion V8.dll
+C:\Users\B09S305est\Documents\PabloAndrésZárate\Final programacion V8\Final programacion V8\obj\Debug\net8.0\Final programacion V8.pdb
+C:\Users\B09S305est\Documents\PabloAndrésZárate\Final programacion V8\Final programacion V8\obj\Debug\net8.0\Final programacion V8.genruntimeconfig.cache
+C:\Users\B09S305est\Documents\PabloAndrésZárate\Final programacion V8\Final programacion V8\obj\Debug\net8.0\ref\Final programacion V8.dll
