@@ -1,0 +1,14 @@
+C:\Users\B15S301est\Documents\Final programacion V11\Final programacion V11\bin\Debug\net8.0\Final programacion V11.exe
+C:\Users\B15S301est\Documents\Final programacion V11\Final programacion V11\bin\Debug\net8.0\Final programacion V11.deps.json
+C:\Users\B15S301est\Documents\Final programacion V11\Final programacion V11\bin\Debug\net8.0\Final programacion V11.runtimeconfig.json
+C:\Users\B15S301est\Documents\Final programacion V11\Final programacion V11\bin\Debug\net8.0\Final programacion V11.dll
+C:\Users\B15S301est\Documents\Final programacion V11\Final programacion V11\bin\Debug\net8.0\Final programacion V11.pdb
+C:\Users\B15S301est\Documents\Final programacion V11\Final programacion V11\obj\Debug\net8.0\Final programacion V11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B15S301est\Documents\Final programacion V11\Final programacion V11\obj\Debug\net8.0\Final programacion V11.AssemblyInfoInputs.cache
+C:\Users\B15S301est\Documents\Final programacion V11\Final programacion V11\obj\Debug\net8.0\Final programacion V11.AssemblyInfo.cs
+C:\Users\B15S301est\Documents\Final programacion V11\Final programacion V11\obj\Debug\net8.0\Final programacion V11.csproj.CoreCompileInputs.cache
+C:\Users\B15S301est\Documents\Final programacion V11\Final programacion V11\obj\Debug\net8.0\Final programacion V11.dll
+C:\Users\B15S301est\Documents\Final programacion V11\Final programacion V11\obj\Debug\net8.0\refint\Final programacion V11.dll
+C:\Users\B15S301est\Documents\Final programacion V11\Final programacion V11\obj\Debug\net8.0\Final programacion V11.pdb
+C:\Users\B15S301est\Documents\Final programacion V11\Final programacion V11\obj\Debug\net8.0\Final programacion V11.genruntimeconfig.cache
+C:\Users\B15S301est\Documents\Final programacion V11\Final programacion V11\obj\Debug\net8.0\ref\Final programacion V11.dll
