@@ -1,0 +1,14 @@
+C:\Users\Pablo Andrés Zárate\OneDrive\Documentos\Final programacion V10\Final programacion V10\bin\Debug\net8.0\Final programacion V10.exe
+C:\Users\Pablo Andrés Zárate\OneDrive\Documentos\Final programacion V10\Final programacion V10\bin\Debug\net8.0\Final programacion V10.deps.json
+C:\Users\Pablo Andrés Zárate\OneDrive\Documentos\Final programacion V10\Final programacion V10\bin\Debug\net8.0\Final programacion V10.runtimeconfig.json
+C:\Users\Pablo Andrés Zárate\OneDrive\Documentos\Final programacion V10\Final programacion V10\bin\Debug\net8.0\Final programacion V10.dll
+C:\Users\Pablo Andrés Zárate\OneDrive\Documentos\Final programacion V10\Final programacion V10\bin\Debug\net8.0\Final programacion V10.pdb
+C:\Users\Pablo Andrés Zárate\OneDrive\Documentos\Final programacion V10\Final programacion V10\obj\Debug\net8.0\Final programacion V10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo Andrés Zárate\OneDrive\Documentos\Final programacion V10\Final programacion V10\obj\Debug\net8.0\Final programacion V10.AssemblyInfoInputs.cache
+C:\Users\Pablo Andrés Zárate\OneDrive\Documentos\Final programacion V10\Final programacion V10\obj\Debug\net8.0\Final programacion V10.AssemblyInfo.cs
+C:\Users\Pablo Andrés Zárate\OneDrive\Documentos\Final programacion V10\Final programacion V10\obj\Debug\net8.0\Final programacion V10.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Andrés Zárate\OneDrive\Documentos\Final programacion V10\Final programacion V10\obj\Debug\net8.0\Final programacion V10.dll
+C:\Users\Pablo Andrés Zárate\OneDrive\Documentos\Final programacion V10\Final programacion V10\obj\Debug\net8.0\refint\Final programacion V10.dll
+C:\Users\Pablo Andrés Zárate\OneDrive\Documentos\Final programacion V10\Final programacion V10\obj\Debug\net8.0\Final programacion V10.pdb
+C:\Users\Pablo Andrés Zárate\OneDrive\Documentos\Final programacion V10\Final programacion V10\obj\Debug\net8.0\Final programacion V10.genruntimeconfig.cache
+C:\Users\Pablo Andrés Zárate\OneDrive\Documentos\Final programacion V10\Final programacion V10\obj\Debug\net8.0\ref\Final programacion V10.dll
